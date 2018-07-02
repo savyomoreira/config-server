@@ -1,2 +1,2 @@
 # config-server
-servidor de configuração spring clounf
+servidor de configuração spring clound
